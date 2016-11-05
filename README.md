@@ -20,7 +20,7 @@ Examples of custom widget libraries built upon ipywidgets are
 <hr>
 
 I found these to be rather large and (for me at the time) rather confusing.   These
-are big, rich widgets, worth emulating, but perhaps not the easiest examples for a
+are big, rich widgets, worth emulating, very useful in themselves, but perhaps not the easiest examples for a
 novice widget programmer to learn from:
 
   - ipyleaflet:  500 lines of python, 800 lines of javascript
