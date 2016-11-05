@@ -19,6 +19,7 @@ Examples of custom widget libraries built upon ipywidgets are
 - [pythreejs](https://github.com/jovyan/pythreejs) a Jupyter - Three.js wrapper,
   bringing Three.js to the notebook.
 - [ipyleaflet](https://github.com/ellisonbg/ipyleaflet) a leaflet widget for Jupyter.
+
 <hr>
 
 I found these to be rather large and (for me at the time) rather confusing.  The LOC in each project:
