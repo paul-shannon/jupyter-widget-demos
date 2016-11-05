@@ -22,13 +22,13 @@ Examples of custom widget libraries built upon ipywidgets are
 
 <hr>
 
-I found these to be rather large and (for me at the time) rather confusing.  The LOC in each project:
+I found these to be rather large and (for me at the time) rather confusing. 
 
   - ipyleaflet:  500 lines of python, 800 lines of javascript
   - pqplot: 4300 lines of python, 15000 lines of javascript
   - pythree: 800 lines of python, 2000 lines of javascript
 
-With helpful advice from the jupyter-js-widget development team, I embarked upon
+So, with helpful advice from the jupyter-js-widget development team, I embarked upon
 an intermediate widget "Simple-d3-circles" which I present here.  It has only 70 lines of python,
 and 143 lines of javascript, and demonstrates the features I most wanted to understand.
 
@@ -37,6 +37,6 @@ I present it in three forms:
  - self-contained within a single jupyter notebook, using javascript "magic"
  - following the [jupyter widget cookiecutter](https://github.com/jupyter/widget-cookiecutter),
    as an installable notebook extension (pending)
- - with whatever modifications are needed to function as a jupyter lab widget (pending)
+ - with whatever modifications will be needed for it to function as a jupyter lab widget (pending)
 
-I welcome suggestions and critique.
+I welcome suggestions.
