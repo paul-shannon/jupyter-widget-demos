@@ -1,7 +1,7 @@
 # A Simple d3-based Jupyter Widget
 
-Wishing to become proficient at creating Jupyter notebook and lab interactive widgets
-I studied the documentation offered here:
+Wishing to become proficient at creating Jupyter notebook and lab interactive widgets,
+I studied the excellent documentation offered by the jupyter/ipywidgets project:
 
   https://github.com/ipython/ipywidgets
 
@@ -9,7 +9,7 @@ and the detailed, incremental presentation provided here:
 
   http://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Custom.html
 
-I then tried to move up to more advanced examples (quoting directly from the README):
+I then tried to move up to more advanced examples (quoting here directly from the README):
 
 <hr>
 Examples of custom widget libraries built upon ipywidgets are
@@ -22,7 +22,9 @@ Examples of custom widget libraries built upon ipywidgets are
 
 <hr>
 
-I found these to be rather large and (for me at the time) rather confusing. 
+I found these to be rather large and (for me at the time) rather confusing.   These
+are big, rich widgets, worth emulating, but perhaps not the easiest examples for a
+novice widget programmer to learn form:
 
   - ipyleaflet:  500 lines of python, 800 lines of javascript
   - pqplot: 4300 lines of python, 15000 lines of javascript
@@ -30,7 +32,7 @@ I found these to be rather large and (for me at the time) rather confusing.
 
 So, with helpful advice from the jupyter-js-widget development team, I embarked upon
 an intermediate widget "Simple-d3-circles" which I present here.  It has only 70 lines of python,
-and 143 lines of javascript, and demonstrates the features I most wanted to understand.
+143 lines of javascript, and demonstrates the features I most wanted to understand.
 
 I present it in three forms:
 
