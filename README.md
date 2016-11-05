@@ -4,7 +4,7 @@ Wishing to become proficient at creating Jupyter notebook and lab interactive wi
 I studied the excellent documentation offered by the jupyter/ipywidgets project:
 
   -  https://github.com/ipython/ipywidgets   (the project's README is helpful)
-  -  http://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Custom.html (detailed, incremental presentation provided here:)
+  -  http://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Custom.html (provides well-document incremental examples)
 
 After spending a couple of days working through theese, I tried to move up to more advanced examples (quoting here directly from the README):
 
