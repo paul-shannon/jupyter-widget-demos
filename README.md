@@ -1,7 +1,7 @@
-# A Simple d3-based Jupyter Javascript Interacctive Widget
+# A Simple d3-based Jupyter Widget
 
-Wanting to become proficient at creating Jupyter notebook and lab interactive widgets
-I studied, and learned a lot from the documentation offered here:
+Wishing to become proficient at creating Jupyter notebook and lab interactive widgets
+I studied the documentation offered here:
 
   https://github.com/ipython/ipywidgets
 
@@ -11,8 +11,9 @@ and the detailed, incremental presentation provided here:
 
 The next step seemed to be to progress to (quoting directly from the README):
 
+<hr>
+<div style="background-color: grey">
 ## More advanced examples
-
 Examples of custom widget libraries built upon ipywidgets are
 
 - [bqplot](https://github.com/bloomberg/bqplot) a 2d data visualization library
@@ -20,6 +21,8 @@ Examples of custom widget libraries built upon ipywidgets are
 - [pythreejs](https://github.com/jovyan/pythreejs) a Jupyter - Three.js wrapper,
   bringing Three.js to the notebook.
 - [ipyleaflet](https://github.com/ellisonbg/ipyleaflet) a leaflet widget for Jupyter.
+</div>
+<hr>
 
 However, when I looked at those examples, I found them to be more complicated
 that I could, at the time, comprehend
